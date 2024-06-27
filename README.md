@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My stat
+
+<div id="stat" align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almostkitty&theme=default)
+</div>
+
+---
